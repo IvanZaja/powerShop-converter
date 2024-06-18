@@ -1,0 +1,1 @@
+# powerShop-converter
